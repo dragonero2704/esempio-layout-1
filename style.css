@@ -67,6 +67,9 @@ li.active {
     color: white;
 }
 
+
+/*---Media queries---*/
+
 @media (max-width: 998px) {
     nav {
         width: 25%
