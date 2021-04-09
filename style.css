@@ -67,6 +67,14 @@ li.active {
     color: white;
 }
 
+a {
+    color: inherit;
+    text-align: inherit;
+    font: inherit;
+    text-decoration: inherit;
+    cursor: default;
+}
+
 
 /*---Media queries---*/
 
